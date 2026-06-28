@@ -85,7 +85,7 @@ Make sure these are installed:
 
    ```env
    PORT=5000
-   MONGODB_URI=mongodb+srv://youruser:yourpassword@cluster0.xxxxx.mongodb.net/querynova?retryWrites=true&w=majority
+   MONGODB_URI=your_api_key_here
    JWT_SECRET=any_long_random_string_at_least_32_chars_like_thisOne123!
    JWT_EXPIRES_IN=7d
    GROQ_API_KEY=gsk_your_groq_key_here
